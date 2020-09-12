@@ -1,5 +1,3 @@
-// add this file to .gitignore
-
 module.exports = {
         google: {
             clientID: '199325705308-dkahb7m0jjk7jp4294vouc5rs3tfbg5v.apps.googleusercontent.com',
